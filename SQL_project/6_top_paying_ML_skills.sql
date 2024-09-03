@@ -45,18 +45,34 @@ ORDER BY salary_year_avg DESC
 /*
 ### Key Insights from the Data:
 
-1. **High-Paying Roles**: The dataset primarily lists roles for Senior Machine Learning Engineers, with a high average salary of $325,000. This indicates that specialized machine learning roles are highly valued and well-compensated.
+1. **High-Paying Roles**: The dataset primarily lists roles for Senior Machine Learning Engineers,
+with a high average salary of $325,000. This indicates that specialized machine learning roles are
+highly valued and well-compensated.
+
 
 2. **Skills in Demand**:
-   - **Python**: A crucial skill for machine learning, emphasizing its importance in data processing, modeling, and deployment.
-   - **Scala**: Often used for big data processing, highlighting the need for proficiency in languages beyond Python.
-   - **AWS**: Cloud computing expertise is essential, suggesting that machine learning engineers must be adept at deploying models and managing data in cloud environments.
-   - **Excel**: Despite being a basic tool, Excel remains relevant, particularly for data analysis and reporting.
-   - **Terraform**: Infrastructure-as-code skills like Terraform are valued, reflecting the need for automation in managing cloud resources.
+   - **Python**: A crucial skill for machine learning, emphasizing its importance in data processing,
+   modeling, and deployment.
 
-3. **Top-Paying Company**: Harnham is consistently listed, suggesting it's a key player offering competitive salaries to attract top talent in machine learning engineering.
+   - **Scala**: Often used for big data processing, highlighting the need for proficiency in languages
+   beyond Python.
 
-These insights underscore the importance of a strong technical skill set in both programming and cloud computing for those pursuing high-paying roles in machine learning.
+   - **AWS**: Cloud computing expertise is essential, suggesting that machine learning engineers must be
+   adept at deploying models and managing data in cloud environments.
+
+   - **Excel**: Despite being a basic tool, Excel remains relevant, particularly for data analysis and
+   reporting.
+
+   - **Terraform**: Infrastructure-as-code skills like Terraform are valued, reflecting the need for
+   automation in managing cloud resources.
+
+
+3. **Top-Paying Company**: Harnham is consistently listed, suggesting it's a key player offering competitive
+salaries to attract top talent in machine learning engineering.
+
+
+These insights underscore the importance of a strong technical skill set in both programming and cloud
+computing for those pursuing high-paying roles in machine learning.
 
 
 /*
