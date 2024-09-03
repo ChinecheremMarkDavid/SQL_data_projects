@@ -83,7 +83,7 @@ though the highest salary is surprisingly offered by Mantys for a "Data Analyst"
 Salary Spread: There is a wide range in salaries even within similar roles, which may reflect
 different levels of seniority, scope of responsibilities, or company-specific pay scales.
 
-![Top Paying Roles](images\1_top_paying_roles.png)
+![Top Paying Roles](images/1_top_paying_roles.png)
 _Bar graph visualizing the salary for the top 10 salaries for data analysts; used python to generate this graph from my SQL query results_
 
 ### 2. Top Paying Data Scientist Jobs
@@ -125,7 +125,7 @@ OBSERVATIONS:
 - **Company-Specific Trends**: Companies with a strong focus on technology and data, such as Mantys and Selby Jennings,
   are leading in salary offerings, emphasizing their investment in top data talent.
 
-![Top Paying Roles](images\Top_10_Paying_Data_Scientist_Jobs_2023_Final.png)
+![Top Paying Roles](images/Top_10_Paying_Data_Scientist_Jobs_2023_Final.png)
 _Bar graph visualizing the salary for the top 10 salaries for data scientists; used python to generate this graph from my SQL query results_
 
 ### 3. Top Paying Machine Learning Engineer Jobs
@@ -167,7 +167,7 @@ OBSERVATIONS:
 - **Company-Specific Trends**: Companies like Acceler8 Talent and MongoDB are actively hiring for these high-paying roles,
   highlighting their focus on attracting top machine learning talent.
 
-![Top Paying Roles](images\machine.png)
+![Top Paying Roles](images/machine.png)
 _Bar graph visualizing the salary for the top 10 salaries for data analysts; used python to generate this graph from my SQL query results_
 
 ### 4. Skills for Top Paying Data Analyst Jobs
@@ -221,7 +221,7 @@ ORDER BY
 
 These insights emphasize the importance of a multidisciplinary skill set to secure top-paying data jobs focused on insights and decision-making.
 
-![Top Paying DA Skills](images\skills_da.png)
+![Top Paying DA Skills](images/skills_da.png)
 
 _Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; used python to generate this graph from my SQL query results_
 
@@ -289,7 +289,7 @@ ORDER BY
 This analysis underscores the importance of focusing on these core technical skills if you're aiming to
 secure top-paying roles in the data analytics and data science fields.
 
-![Top Paying DS Skills](images\top_ten_ds.png)
+![Top Paying DS Skills](images/top_ten_ds.png)
 
 _Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; used python to generate this graph from my SQL query results_
 
@@ -355,7 +355,7 @@ ORDER BY
 These insights underscore the importance of a strong technical skill set in both programming and cloud
 computing for those pursuing high-paying roles in machine learning.
 
-![Top Paying ML Skills](images\top_ten_ml.png)
+![Top Paying ML Skills](images/top_ten_ml.png)
 
 _Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; used python to generate this graph from my SQL query results_
 
