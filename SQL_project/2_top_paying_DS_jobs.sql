@@ -35,7 +35,15 @@ LIMIT
 
 /*
 
-RESULTS:
+
+### Observations:
+
+- **Role-Specific Trends**: High-level and specialized data science roles, especially those involving quantitative research or business analytics, command significantly higher salaries.
+- **High Earning Roles**: Staff Data Scientist positions at Selby Jennings top the salary list, emphasizing that specialized data science roles, particularly those involving quantitative research, are highly compensated.
+- **Salary Distribution**: The salaries range from \$300,000 to \$550,000, with a mean salary of approximately \$365,850 and a standard deviation of \$93,799. This indicates a generally high salary level with moderate variability.
+- **Company-Specific Trends**: Companies with a strong focus on technology and data, such as Mantys and Selby Jennings, are leading in salary offerings, emphasizing their investment in top data talent.
+
+QUERY RESULTS:
 [
   {
     "job_id": 40145,

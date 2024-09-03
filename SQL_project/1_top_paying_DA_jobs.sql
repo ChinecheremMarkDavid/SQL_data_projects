@@ -55,7 +55,7 @@ different levels of seniority, scope of responsibilities, or company-specific pa
 
 
 
-RESULTS:
+QUERY RESULTS:
 
 [
   {
