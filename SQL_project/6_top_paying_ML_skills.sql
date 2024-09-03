@@ -1,3 +1,17 @@
+/*
+Question: What skills are required for the top-paying Machine Learning Engineer jobs?
+
+Objective: Use the top 10 highest-paying Machine Learning Engineer jobs identified in the previous analysis.
+
+Approach: Determine the specific skills required for these roles to identify key qualifications.
+
+Purpose: Provide a detailed understanding of which skills are linked to high-paying jobs,
+guiding professionals on which skills to prioritize.
+
+
+
+*/
+
 WITH top_paying_ml_skills AS (
 
 SELECT

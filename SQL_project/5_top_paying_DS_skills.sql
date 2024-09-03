@@ -1,3 +1,19 @@
+/*
+Question: What skills are required for the top-paying Data Scientist jobs?
+
+Objective: Leverage the top 10 highest-paying Data Scientist roles identified in the previous query.
+
+Approach: Extract the specific skills required for these positions to understand their unique demands.
+
+Purpose: Offer a clear view of which high-paying roles require specific skills, guiding job seekers in
+skill development to align with top salaries.
+
+
+*/
+
+
+
+
 WITH top_paying_ds_skills AS(
 
 
